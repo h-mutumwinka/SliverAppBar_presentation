@@ -10,7 +10,6 @@ SliverAppBar is a scroll-aware app bar that expands, collapses, and reacts dynam
 
 ## Image
 
-![alt text](<image.png>)
 
  ## Three Properties Demonstrated
 1 expandedHeight
