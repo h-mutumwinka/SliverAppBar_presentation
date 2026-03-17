@@ -54,9 +54,13 @@ Clone the repository:
 git clone : https://github.com/h-mutumwinka/SliverAppBar_presentation.git
 
 Navigate into the project folder:
+
 cd SliverAppBar_presentation
+
 cd silver
+
 Get dependencies:
+
 flutter pub get
 
 Run the app:
